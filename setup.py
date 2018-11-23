@@ -1,2 +1,2 @@
-pandas
-sqlite3
+import pandas as p
+import sqlite3
