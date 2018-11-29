@@ -2,10 +2,10 @@
 
 ## Documentation
 
-- [Introduction](https://github.com/LucieBailly/ajc-tvshows/blob/master/TV%20Shows.pdf)
+- [Introduction](https://github.com/LucieBailly/ajc-tvshows/blob/master/Introduction.pdf)
 - [Dictionnaire des données](https://github.com/LucieBailly/ajc-tvshows/blob/master/Data%20Dictionnary.pdf)
 - [Commandes SQL](https://github.com/LucieBailly/ajc-tvshows/blob/master/SQL.pdf)
-- [Datavisualization tutoriel](https://github.com/LucieBailly/ajc-tvshows/blob/master/Data%20Visualization.pdf) 
+- [Datavisualization tutoriel](https://github.com/LucieBailly/ajc-tvshows/blob/master/Tableau%20tutoriel.pdf) 
 
 ## Notebook
 
@@ -13,4 +13,5 @@ Lance le Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 
 ## Dataviz
 
-[Tableau](https://public.tableau.com/views/TVShows_5/TVShows?:embed=y&:display_count=yes)
+Exercice à télécharger: [Tableau](https://public.tableau.com/views/TVShows_exo/Tableaudebord1?:embed=y&:display_count=yes)
+Correction : [Tableau](https://public.tableau.com/views/TVShows_5/Tableaudebord1?:embed=y&:display_count=yes)
