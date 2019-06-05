@@ -13,5 +13,5 @@ Lance le Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 
 ## Dataviz
 
-- [Exercice à télécharger](https://public.tableau.com/views/TVShows_exo/Tableaudebord1?:embed=y&:display_count=yes)
-- [Visualisation Finale](https://public.tableau.com/views/TVShows_5/TVShows?:embed=y&:display_count=yes)
+- [Exercice à télécharger](https://public.tableau.com/views/TVShows_5/Tableaudebord1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
+- [Visualisation Finale](https://public.tableau.com/views/TVShows_5/Tableaudebord1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
