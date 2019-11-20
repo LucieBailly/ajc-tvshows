@@ -5,7 +5,7 @@
 - [Introduction](https://github.com/LucieBailly/ajc-tvshows/blob/master/Introduction.pdf)
 - [Dictionnaire des données](https://github.com/LucieBailly/ajc-tvshows/blob/master/Data%20Dictionnary.pdf)
 - [Commandes SQL](https://github.com/LucieBailly/ajc-tvshows/blob/master/SQL.pdf)
-- [Datavisualization tutoriel](https://github.com/LucieBailly/ajc-tvshows/blob/master/Tableau%20tutoriel.pdf) 
+- [Questions Tableau](https://github.com/LucieBailly/ajc-tvshows/blob/master/Tableau.pdf) 
 
 ## Notebook
 
@@ -13,5 +13,6 @@ Lance le Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 
 ## Dataviz
 
-- [Exercice à télécharger](https://public.tableau.com/workbooks/TVShows_exo.twb)
-- [Visualisation Finale](https://public.tableau.com/views/TVShows_5/TVShows?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
+- [Exercice à télécharger](https://public.tableau.com/views/ExerciceAJC/Exercice?:display_count=y&publish=yes&:origin=viz_share_link)
+- [Visualisation Finale](https://public.tableau.com/views/TVShows_5/TVShows?:display_count=y&:origin=viz_share_link)
+- Pour aller plus loin: https://www.nytimes.com/interactive/2019/05/17/upshot/game-of-thrones-imdb-ratings.html
